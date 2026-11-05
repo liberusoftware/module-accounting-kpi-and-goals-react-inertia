@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-kpi-and-goals-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-kpi-and-goals",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-kpi-and-goals-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/kpi-and-goals.md",
+  "presentationPlan": "projects/accounting/react/kpi-and-goals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
